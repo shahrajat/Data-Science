@@ -1,17 +1,16 @@
 #Rajat Shah
 #Proving Central Limit Theorem
-#
 
 valid_input = 1		#later set to 0 if the input distribution type is not either normal or poisson
 
+#Read all the parameters from user
 dist <- readline(prompt="Distribution Type? ")
-
 sample_size <- readline(prompt="Sample Size? ")
 sample_size <- as.integer(sample_size)
-
 num_samples <- readline(prompt="Number of samples? ")
 num_samples <- as.integer(num_samples)
 
+#Initialize data structures required
 samples <-matrix(as.integer(), nrow=num_samples, ncol=sample_size) #matrix to store samples
 means <- array()
 stddev <- array()

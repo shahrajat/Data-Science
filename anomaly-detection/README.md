@@ -14,5 +14,5 @@ Based on paper: http://ilpubs.stanford.edu:8090/836/2/webgraph_similarity.pdf
 
 Following visualization of Similarity values of 2 consecutive graphs shows those graphs as anomany which have value beyond the threshold value.
 
-![anomalies.png]({{site.baseurl}}/anomaly-detection/anomalies.png)
+![anomalies.png](https://raw.githubusercontent.com/shahrajat/Data-Science/master/anomaly-detection/anomalies.png)
 

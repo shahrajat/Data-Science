@@ -8,5 +8,5 @@
 Based on Learning the K in K-Means : <a href="http://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf"> Paper</a>. 
 <a href="https://github.com/shahrajat/Data-Science/blob/master/gmeans.r">R Code</a>
 </li>
-<li>Proving Central Limit Theorem. <a href="Data-Science/CLT.R">R Code</a></li>
+<li>Proving Central Limit Theorem. <a href="https://github.com/shahrajat/Data-Science/blob/master/CLT.R">R Code</a></li>
 </ol>
